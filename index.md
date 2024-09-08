@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+"Dump" to po prostu miejsce, do którego będę wrzucał notatki na przyszłość.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Byłoby super nie musieć za każdym razem ponownie szukać rozwiązań powtarzających się problemów.
